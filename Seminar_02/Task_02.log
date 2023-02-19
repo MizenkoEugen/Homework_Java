@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-19T17:54:11.593845600Z</date>
+  <millis>1676829251593</millis>
+  <nanos>845600</nanos>
+  <sequence>0</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 40 =&gt; 1</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.634856Z</date>
+  <millis>1676829251634</millis>
+  <nanos>856000</nanos>
+  <sequence>1</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 72 =&gt; 4</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.662417200Z</date>
+  <millis>1676829251662</millis>
+  <nanos>417200</nanos>
+  <sequence>2</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 72 =&gt; 5</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.663417Z</date>
+  <millis>1676829251663</millis>
+  <nanos>417000</nanos>
+  <sequence>3</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85 =&gt; 7</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.664417700Z</date>
+  <millis>1676829251664</millis>
+  <nanos>417700</nanos>
+  <sequence>4</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85 =&gt; 8</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.664417700Z</date>
+  <millis>1676829251664</millis>
+  <nanos>417700</nanos>
+  <sequence>5</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 85 =&gt; 9</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.665419300Z</date>
+  <millis>1676829251665</millis>
+  <nanos>419300</nanos>
+  <sequence>6</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 44 =&gt; 3</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.666418900Z</date>
+  <millis>1676829251666</millis>
+  <nanos>418900</nanos>
+  <sequence>7</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 44 =&gt; 4</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.667418800Z</date>
+  <millis>1676829251667</millis>
+  <nanos>418800</nanos>
+  <sequence>8</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83 =&gt; 8</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.667418800Z</date>
+  <millis>1676829251667</millis>
+  <nanos>418800</nanos>
+  <sequence>9</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 40 =&gt; 2</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.668418400Z</date>
+  <millis>1676829251668</millis>
+  <nanos>418400</nanos>
+  <sequence>10</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 40 =&gt; 3</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.669418500Z</date>
+  <millis>1676829251669</millis>
+  <nanos>418500</nanos>
+  <sequence>11</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 83 =&gt; 7</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.670419100Z</date>
+  <millis>1676829251670</millis>
+  <nanos>419100</nanos>
+  <sequence>12</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 8 =&gt; 1</message>
+</record>
+<record>
+  <date>2023-02-19T17:54:11.671420Z</date>
+  <millis>1676829251671</millis>
+  <nanos>420000</nanos>
+  <sequence>13</sequence>
+  <logger>Homework.Seminar_02.Task_02</logger>
+  <level>INFO</level>
+  <class>Homework.Seminar_02.Task_02</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hello logging: 72 =&gt; 6</message>
+</record>
+</log>
